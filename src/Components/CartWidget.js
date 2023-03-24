@@ -1,11 +1,11 @@
-import { FaShoppingCart } from 'react-icons/fa';
+import { FaShoppingCart } from "react-icons/fa";
 
-
-
-const CartWighet =()=>{
-    return <div className='cartContainer'>
- <FaShoppingCart/>
+const CartWighet = () => {
+  return (
+    <div className="cartContainer">
+      <FaShoppingCart />
     </div>
-}
+  );
+};
 
-export default CartWighet
+export default CartWighet;
