@@ -14,13 +14,13 @@ const NavBar = () => {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#home"><Link  to={`/`}>Home</Link></Nav.Link>
-            <Nav.Link href="#link">About us</Nav.Link>
+            <Nav.Link href="#link"><Link  to={`/aboutme`}>About us</Link></Nav.Link>
             <NavDropdown title="Products" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Living</NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.1"><Link  to={`/living`}>Living</Link></NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
-                Dining Room
+              <Link  to={`/diningroom`}>DiningRoom</Link>
               </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Bedroom</NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.3"><Link  to={`/bedroom`}>Bedroom</Link></NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="#link">Contact</Nav.Link>
             <CartWidget />

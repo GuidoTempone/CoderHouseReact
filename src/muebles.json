@@ -1,6 +1,6 @@
 [
   {
-    "id":1,
+    "id": 1,
     "name": "Koinor Leather Sofa",
     "brand": "Koinor",
     "type": "sofa 2.5 seater, 2 seater",
@@ -11,7 +11,7 @@
     "description": "This offer is a sofa from the luxury brand Koinor, which has been covered with high-quality leather and allows for a very soft sitting position. "
   },
   {
-    "id":2,
+    "id": 2,
     "name": "Jumbo Cord Corner Sofa Suite Set Grey",
     "brand": "Dylan",
     "type": "Dylan Dino farrow",
@@ -22,7 +22,7 @@
     "description": "In a rich and luxurious fabric, this sofa offers a generous seating area with foam seat cushions and plump, inviting pillows."
   },
   {
-    "id":3,
+    "id": 3,
     "name": "Panel wing Plush Velvet Upholstered Bed Frame Double & King Size",
     "brand": "Velvet ",
     "type": "King Size",
@@ -33,7 +33,7 @@
     "description": "New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller's listing for full details."
   },
   {
-    "id":4,
+    "id": 4,
     "name": "Rustic coffee table",
     "brand": "Coffee Table",
     "type": "Rustic",
@@ -44,7 +44,7 @@
     "description": "New: A brand-new, unused, unopened, undamaged item in its original packaging (where packaging is applicable). Packaging should be the same as what is found in a retail store, unless the item is handmade or was packaged by the manufacturer in non-retail packaging, such as an unprinted box or plastic bag. See the seller's"
   },
   {
-    "id":5,
+    "id": 5,
     "name": "Natuzzi Leather Sofa",
     "brand": "Natuzzi",
     "type": "sofa 3 seater",
@@ -55,7 +55,7 @@
     "description": "This is a high-quality leather sofa from Natuzzi, with a comfortable seating position and elegant design."
   },
   {
-    "id":6,
+    "id": 6,
     "name": "Ikea Sectional Sofa",
     "brand": "Ikea",
     "type": "sectional sofa",
@@ -66,7 +66,7 @@
     "description": "This sectional sofa from Ikea offers comfortable seating for the whole family, with a durable and easy-to-clean fabric."
   },
   {
-    "id":7,
+    "id": 7,
     "name": "Herman Miller Eames Lounge Chair",
     "brand": "Herman Miller",
     "type": "lounge chair",
@@ -77,7 +77,7 @@
     "description": "This iconic lounge chair from Herman Miller was designed by Charles and Ray Eames, with a comfortable leather seat and stylish design."
   },
   {
-    "id":8,
+    "id": 8,
     "name": "West Elm Velvet Sofa",
     "brand": "West Elm",
     "type": "sofa 2 seater",
@@ -88,7 +88,7 @@
     "description": "This velvet sofa from West Elm is perfect for adding a touch of luxury to your living room, with a comfortable and stylish design."
   },
   {
-    "id":9,
+    "id": 9,
     "name": "Roche Bobois Leather Sofa",
     "brand": "Roche Bobois",
     "type": "sofa 3 seater",
@@ -99,7 +99,7 @@
     "description": "This leather sofa from Roche Bobois is a luxury statement piece for any living room, with a comfortable and elegant design."
   },
   {
-    "id":10,
+    "id": 10,
     "name": "Article Leather Armchair",
     "brand": "Article",
     "type": "armchair",
@@ -110,7 +110,7 @@
     "description": "This leather armchair from Article offers a comfortable seating option with a sleek and modern design."
   },
   {
-    "id":11,
+    "id": 11,
     "name": "Crate & Barrel Velvet Sofa",
     "brand": "Crate & Barrel",
     "type": "sofa 2 seater",
@@ -121,7 +121,7 @@
     "description": "This velvet sofa from Crate & Barrel is a stylish addition to any living room, with a comfortable and soft seating position."
   },
   {
-    "id":12,
+    "id": 12,
     "name": "Armchair",
     "brand": "Natuzzi",
     "type": "armchair",
@@ -132,7 +132,7 @@
     "description": "This is a high-quality leather armchair from Natuzzi, with a comfortable seating position and elegant design."
   },
   {
-    "id":13,
+    "id": 13,
     "name": "Ikea Swivel Chair",
     "brand": "Ikea",
     "type": "swivel chair",
@@ -143,7 +143,7 @@
     "description": "This swivel chair from Ikea offers comfortable seating with a modern design, perfect for any home office or workspace."
   },
   {
-    "id":14,
+    "id": 14,
     "name": "Herman Miller Aeron Chair",
     "brand": "Herman Miller",
     "type": "office chair",
@@ -154,7 +154,7 @@
     "description": "This office chair from Herman Miller is designed for ergonomic comfort, with a sleek and modern design that looks great in any workspace."
   },
   {
-    "id":15,
+    "id": 15,
     "name": "West Elm Accent Chair",
     "brand": "West Elm",
     "type": "accent chair",
@@ -165,7 +165,7 @@
     "description": "This accent chair from West Elm is perfect for adding a pop of color and style to any room, with a comfortable and modern design."
   },
   {
-    "id":16,
+    "id": 16,
     "name": "Roche Bobois Leather Armchair",
     "brand": "Roche Bobois",
     "type": "armchair",
@@ -176,7 +176,7 @@
     "description": "This leather armchair from Roche Bobois is a luxury statement piece for any living room, with a comfortable and elegant design."
   },
   {
-    "id":17,
+    "id": 17,
     "name": "Article Velvet Chair",
     "brand": "Article",
     "type": "accent chair",
@@ -187,7 +187,7 @@
     "description": "This velvet accent chair from Article is a stylish and comfortable addition to any room, with a modern and sleek design."
   },
   {
-    "id":18,
+    "id": 18,
     "name": "Crate & Barrel Leather Chair",
     "brand": "Crate & Barrel",
     "type": "accent chair",
@@ -198,7 +198,7 @@
     "description": "This leather accent chair from Crate & Barrel is a stylish and comfortable addition to any room, with a modern and sleek design."
   },
   {
-    "id":19,
+    "id": 19,
     "name": "Koinor Leather Bed",
     "brand": "Koinor",
     "type": "king size",
@@ -209,7 +209,7 @@
     "description": "This luxurious leather bed from Koinor is perfect for anyone who wants to sleep in style and comfort."
   },
   {
-    "id":20,
+    "id": 20,
     "name": "Modern Platform Bed",
     "brand": "Modway",
     "type": "queen size",
@@ -220,7 +220,7 @@
     "description": "This modern platform bed from Modway is sleek and stylish, perfect for anyone who wants a contemporary look for their bedroom."
   },
   {
-    "id":21,
+    "id": 21,
     "name": "Traditional Wooden Bed",
     "brand": "Ashley Furniture",
     "type": "queen size",
@@ -231,7 +231,7 @@
     "description": "This traditional wooden bed from Ashley Furniture is perfect for anyone who wants a classic look for their bedroom."
   },
   {
-    "id":22,
+    "id": 22,
     "name": "Adjustable Bed Base",
     "brand": "Tempur-Pedic",
     "type": "king size",
@@ -242,7 +242,7 @@
     "description": "This adjustable bed base from Tempur-Pedic allows you to customize your sleeping position for maximum comfort and support."
   },
   {
-    "id":23,
+    "id": 23,
     "name": "Upholstered Storage Bed",
     "brand": "Pottery Barn",
     "type": "queen size",
@@ -254,7 +254,7 @@
   },
 
   {
-    "id":24,
+    "id": 24,
     "name": "Metal Bed Frame",
     "brand": "Zinus",
     "type": "queen size",
@@ -266,7 +266,7 @@
   },
 
   {
-    "id":25,
+    "id": 25,
     "name": "Sleigh Bed",
     "brand": "Hooker Furniture",
     "type": "queen size",
@@ -275,5 +275,96 @@
     "price": 899.0,
     "img": "https://static.homelivingfurniture.com/data/vendors/28/items/247558/big/5447-90451.jpg",
     "description": "This elegant sleigh bed from Hooker Furniture is perfect for anyone who wants a touch of sophistication in their bedroom."
-  }
+  },
+
+  {
+    "id": 26,
+    "name": "Danish Dining Set Extending Table & 6 Teak Benny Linden Chairs Mid Century Retro",
+    "brand": "Danish Dining",
+    "type": "Set Extending Table ",
+    "search": "d",
+    "dimensions": "160cmX200cmX100cm",
+    "price": 700.0,
+    "img": "https://cdn.shopify.com/s/files/1/0269/6878/5009/products/image_a0f79d20-2205-4e59-9957-5488b0f09a2d.jpg?v=1664118174",
+    "description": "This Teak D-End shaped Dining Table designed by Benny Linden is simply timeless - perfect for a Mid Century / Danish Modern styled interior or a Mixed Modern styled interior. And our favourite design element is that the two table leaves are stored INSIDE the table when not in use (as shown in the third photo) so you don't have to worry about finding room in the closet or the garage and risk damaging the leaves!"
+  },
+  {
+    "id": 27,
+    "name": "Danish Modern Teak Dining Table with 4 Chairs",
+    "brand": "Danish Modern",
+    "type": "Dining Table Set",
+    "search": "d",
+    "dimensions": "150cmX90cmX75cm",
+    "price": 850.0,
+    "img": "https://moderntovintage.com/wp-content/uploads/2019/07/Photo-Jun-14-3-43-26-PM.jpg",
+    "description": "This stylish Danish Modern Teak Dining Table with 4 Chairs will add elegance to any dining room."
+  },
+  {
+    "id": 28,
+    "name": "Mid-Century Modern Teak Dining Table with 6 Chairs",
+    "brand": "Mid-Century Modern",
+    "type": "Dining Table Set",
+    "search": "d",
+    "dimensions": "180cmX90cmX75cm",
+    "price": 1200.0,
+    "img": "https://cdn20.pamono.com/p/g/1/0/1057315_xiwbsswwiv/mid-century-teak-extendable-dining-table-and-6-chairs-from-nathan-set-of-7-8.jpg",
+    "description": "This Mid-Century Modern Teak Dining Table with 6 Chairs is perfect for those who love the retro style."
+  },
+  {
+    "id": 29,
+    "name": "Vintage Danish Modern Dining Table with 4 Chairs",
+    "brand": "Vintage Danish Modern",
+    "type": "Dining Table Set",
+    "search": "d",
+    "dimensions": "160cmX80cmX75cm",
+    "price": 950.0,
+    "img": "https://moderntovintage.com/wp-content/uploads/2019/07/Photo-Jun-14-3-43-26-PM-700x460.jpg",
+    "description": "This Vintage Danish Modern Dining Table with 4 Chairs is a timeless classic that will never go out of style."
+  },
+  {
+    "id": 30,
+    "name": "Teak Dining Table with 6 Chairs",
+    "brand": "Teak",
+    "type": "Dining Table Set",
+    "search": "d",
+    "dimensions": "180cmX90cmX75cm",
+    "price": 1100.0,
+    "img": "https://5.imimg.com/data5/QO/ZP/IK/GLADMIN-14708796/-500x500.jpg",
+    "description": "This Teak Dining Table with 6 Chairs is perfect for those who love the natural beauty of wood."
+  },
+
+    {
+      "id": 31,
+      "name": "Modern Dining room Vanity",
+      "brand": "Modern Vanity",
+      "type": "Bathroom Vanity",
+      "search": "d",
+      "dimensions": "120cmX60cmX80cm",
+      "price": 950.0,
+      "img": "http://cdn.home-designing.com/wp-content/uploads/2010/12/Team7-Modern-Dining-room-set-chrome-acrylic-chairs-.jpg",
+      "description": "This modern bathroom vanity is perfect for any bathroom remodel, with plenty of storage space and a sleek design."
+    },
+    {
+      "id": 32,
+      "name": "Kitchen Island",
+      "brand": "Kitchen Island",
+      "type": "Kitchen Island",
+      "search": "d",
+      "dimensions": "120cmX80cmX90cm",
+      "price": 1250.0,
+      "img": "https://www.thespruce.com/thmb/9BN_XqvVZVRGnY246ue9h9_7nJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kitchen-island-ideas-5211577-hero-9708dd3031434ea4b97da0c0082d0093.jpg",
+      "description": "This beautiful kitchen island is made from high-quality teak wood and features plenty of storage space and a stunning design."
+    },
+    {
+      "id": 33,
+      "name": "Modern TV Stand",
+      "brand": "Modern TV Stand",
+      "type": "TV Stand",
+      "search": "d",
+      "dimensions": "180cmX50cmX50cm",
+      "price": 780.0,
+      "img": "https://mobileimages.lowes.com/productimages/9dd6205a-1048-493c-abf9-209fb0cf842a/61649203.jpg",
+      "description": "This modern TV stand is perfect for any living room, with plenty of storage space and a sleek design that will complement any decor."
+    }
+  
 ]
