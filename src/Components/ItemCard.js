@@ -14,7 +14,6 @@ const ItemCard = ({ product }) => {
       <Link to={`/${product.id}`}>
         <button className="btn outline">DETAILS</button>
         </Link>
-        <button className="btn fill">BUY NOW</button>
       </div>
     </div>
   );

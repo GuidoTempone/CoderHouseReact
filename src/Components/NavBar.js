@@ -23,8 +23,9 @@ const NavBar = () => {
               <NavDropdown.Item href="#action/3.3"><Link  to={`/bedroom`}>Bedroom</Link></NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="#link">Contact</Nav.Link>
-            <CartWidget />
+            
           </Nav>
+          <CartWidget />
         </Navbar.Collapse>
       </Container>
     </Navbar>
